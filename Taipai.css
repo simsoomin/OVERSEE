@@ -1,0 +1,11 @@
+body {
+	font-family: 'DungGeunMo';
+}
+
+header{
+    background-image: url(images/flag/flagofAisa/Flag_of_the_Republic_of_China.svg.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+ 
+}

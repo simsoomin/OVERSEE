@@ -1,0 +1,11 @@
+body {
+	font-family: 'DungGeunMo';
+}
+
+header{
+    background-image: url(images/flag/swedenflag.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+ 
+}
